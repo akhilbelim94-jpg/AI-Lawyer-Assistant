@@ -225,7 +225,7 @@ Vincenzo uses Retrieval-Augmented Generation (RAG) to ground every response in i
 
 # 👨‍💻 Author & Solo Developer
 
-**Akhil Sipahi**
+**AKKi | Akhil Sipahi**
 
 Machine Learning Engineer | Data Scientist
 
